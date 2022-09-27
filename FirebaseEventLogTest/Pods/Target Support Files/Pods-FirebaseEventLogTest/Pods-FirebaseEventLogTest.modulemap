@@ -1,0 +1,6 @@
+framework module Pods_FirebaseEventLogTest {
+  umbrella header "Pods-FirebaseEventLogTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
